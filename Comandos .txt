@@ -1,0 +1,6 @@
+Para jalar los cambios usar:
+	- git pull
+Para guardar los cambios:
+	- git add .
+	- git commit -m "Label del cambio"
+	- git push
